@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: Laba.Main
+Class-Path: stax2-api-4.2.1.jar jackson-core-2.13.1.jar jackson-dataform
+ at-xml-2.13.1.jar woodstox-core-6.2.7.jar snakeyaml-1.28.jar jackson-da
+ taformat-yaml-2.13.1.jar jackson-databind-2.13.1.jar jackson-annotation
+ s-2.13.1.jar
+
